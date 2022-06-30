@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '11.0'
   s.requires_arc          = true
   s.vendored_frameworks   = 'Framework/Judo3DS2_iOS.xcframework'
-  s.frameworks            = 'Foundation', 'UIKit', 'WebKit', 'CommonCrypto'
+  s.frameworks            = 'Foundation', 'UIKit', 'WebKit'
 end
