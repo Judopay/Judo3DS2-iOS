@@ -1,5 +1,5 @@
 //
-//  Judo3DS2_iOS.h
+//  JP3DSButtonType.h
 //  Judo3DS2_iOS
 //
 //  Copyright (c) 2020 Alternative Payments Ltd
@@ -24,26 +24,10 @@
 
 #import <Foundation/Foundation.h>
 
-//! Project version number for Judo3DS.
-FOUNDATION_EXPORT double Judo3DSVersionNumber;
-
-//! Project version string for Judo3DS.
-FOUNDATION_EXPORT const unsigned char Judo3DSVersionString[];
-
-#import <Judo3DS2_iOS/JP3DS2Service.h>
-#import <Judo3DS2_iOS/JP3DSButtonCustomization.h>
-#import <Judo3DS2_iOS/JP3DSButtonType.h>
-#import <Judo3DS2_iOS/JP3DSConfigParameters.h>
-#import <Judo3DS2_iOS/JP3DSCustomization.h>
-#import <Judo3DS2_iOS/JP3DSLabelCustomization.h>
-#import <Judo3DS2_iOS/JP3DSTextBoxCustomization.h>
-#import <Judo3DS2_iOS/JP3DSToolbarCustomization.h>
-#import <Judo3DS2_iOS/JP3DSTransaction.h>
-#import <Judo3DS2_iOS/JP3DSUICustomization.h>
-#import <Judo3DS2_iOS/JP3DSWarning.h>
-#import <Judo3DS2_iOS/JP3DSChallengeStatusReceiver.h>
-#import <Judo3DS2_iOS/JP3DSAuthenticationRequestParameters.h>
-#import <Judo3DS2_iOS/JP3DSCompletionEvent.h>
-#import <Judo3DS2_iOS/JP3DSProtocolErrorEvent.h>
-#import <Judo3DS2_iOS/JP3DSRuntimeErrorEvent.h>
-#import <Judo3DS2_iOS/JP3DSChallengeParameters.h>
+typedef NS_ENUM(NSUInteger, JP3DSButtonType) {
+    JP3DSButtonTypeSubmit,
+    JP3DSButtonTypeCancel,
+    JP3DSButtonTypeNext,
+    JP3DSButtonTypeContinue,
+    JP3DSButtonTypeResend
+};
