@@ -1,0 +1,6 @@
+framework module Judo3DS2_iOS {
+  umbrella header "Judo3DS2_iOS.h"
+
+  export *
+  module * { export * }
+}
