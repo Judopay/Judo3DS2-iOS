@@ -22,6 +22,8 @@
 //  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 //  IN THE SOFTWARE.
 
+#import <Foundation/Foundation.h>
+
 //! Project version number for Judo3DS.
 FOUNDATION_EXPORT double Judo3DSVersionNumber;
 
@@ -39,3 +41,9 @@ FOUNDATION_EXPORT const unsigned char Judo3DSVersionString[];
 #import <Judo3DS2_iOS/JP3DSTransaction.h>
 #import <Judo3DS2_iOS/JP3DSUICustomization.h>
 #import <Judo3DS2_iOS/JP3DSWarning.h>
+#import <Judo3DS2_iOS/JP3DSChallengeStatusReceiver.h>
+#import <Judo3DS2_iOS/JP3DSAuthenticationRequestParameters.h>
+#import <Judo3DS2_iOS/JP3DSCompletionEvent.h>
+#import <Judo3DS2_iOS/JP3DSProtocolErrorEvent.h>
+#import <Judo3DS2_iOS/JP3DSRuntimeErrorEvent.h>
+#import <Judo3DS2_iOS/JP3DSChallengeParameters.h>
