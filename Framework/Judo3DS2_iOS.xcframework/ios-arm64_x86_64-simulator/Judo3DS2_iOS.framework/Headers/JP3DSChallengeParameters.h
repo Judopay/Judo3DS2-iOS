@@ -50,6 +50,8 @@
  */
 @property (nonatomic, strong, nullable) NSString *threeDSRequestorAppURL;
 
+@property (nonatomic, strong, nullable) NSString *messageVersion;
+
 /**
  * Designated initializer that sets all the required parameters for a Challenge request.
  *
@@ -65,6 +67,7 @@
                                           acsTransactionID:(nonnull NSString *)acsTransactionID
                                               acsRefNumber:(nonnull NSString *)acsRefNumber
                                           acsSignedContent:(nonnull NSString *)acsSignedContent
-                                    threeDSRequestorAppURL:(nullable NSString *)threeDSRequestorAppURL;
+                                    threeDSRequestorAppURL:(nullable NSString *)threeDSRequestorAppURL
+                                            messageVersion:(nullable NSString *)version;
 
 @end

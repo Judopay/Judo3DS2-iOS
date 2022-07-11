@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/JP3DSChallengeParameters.h</key>
 		<data>
-		KxRjxpvY636oHMXYIO+ppAPTMSg=
+		tFiZO5DPX2H5A3ca5wCtx7JoWnM=
 		</data>
 		<key>Headers/JP3DSChallengeStatusReceiver.h</key>
 		<data>
@@ -39,6 +39,10 @@
 		<key>Headers/JP3DSCustomization.h</key>
 		<data>
 		owvfPIM7JNONK204ypQn1zzLX3Y=
+		</data>
+		<key>Headers/JP3DSErrorMessage.h</key>
+		<data>
+		YbcVn8omJcIQbzX7tmDFK0H+35c=
 		</data>
 		<key>Headers/JP3DSLabelCustomization.h</key>
 		<data>
@@ -74,11 +78,11 @@
 		</data>
 		<key>Headers/Judo3DS2_iOS.h</key>
 		<data>
-		mXV4JadTyyCKFQd9y/oQuskvsxo=
+		tLun2UjSl/09jQ4dB6XbtbheZ3w=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NLA33EEAMWruFT6rShWmTQhqLhY=
+		gOTCuJ5sr2GPnhXzlqwwD4cMp+c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -163,7 +167,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jYX9wbr1N6b+DSLpSmvUqhIKbHW4Bt5RrqXeSoeDMPg=
+			TJ9FAxFsFGiDGxG7vwcWK1h62rMrM02Ng6V1C1wXZMo=
 			</data>
 		</dict>
 		<key>Headers/JP3DSChallengeStatusReceiver.h</key>
@@ -192,6 +196,13 @@
 			<key>hash2</key>
 			<data>
 			bRfKuQQ+Lk68WfBVHuQ/W7079bEBzJOU7v4pewYKHug=
+			</data>
+		</dict>
+		<key>Headers/JP3DSErrorMessage.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wkwW4uFzSfMMfN7LtaO4rRuh57Th5ZIlizJiXDP8+KI=
 			</data>
 		</dict>
 		<key>Headers/JP3DSLabelCustomization.h</key>
@@ -254,7 +265,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gSxdN8gqlIONLuBsG5O4BF9+C40OlZZcoTaIhTzVJnM=
+			5Mj7ilnXG8/YDvdogjRDFFAFXlcnIMbXyVtTnjYJswY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
