@@ -20,6 +20,15 @@
 			<string>A000000004</string>
 		</array>
 	</dict>
+	<key>amex</key>
+	<dict>
+		<key>certificate</key>
+		<string>ds-amex.der</string>
+		<key>ids</key>
+		<array>
+			<string>A000000025</string>
+		</array>
+	</dict>
 	<key>ec_scheme</key>
 	<dict>
 		<key>certificate</key>
