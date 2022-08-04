@@ -1,4 +1,5 @@
 {
   "1.0.0": "https://github.com/Judopay/Judo3DS2-iOS/releases/download/1.0.0/Judo3DS2_iOS.xcframework.zip",
-  "1.0.1": "https://github.com/Judopay/Judo3DS2-iOS/releases/download/1.0.1/Judo3DS2_iOS.xcframework.zip"
+  "1.0.1": "https://github.com/Judopay/Judo3DS2-iOS/releases/download/1.0.1/Judo3DS2_iOS.xcframework.zip",
+  "$VERSION": "https://github.com/Judopay/Judo3DS2-iOS/releases/download/${VERSION}/Judo3DS2_iOS.xcframework.zip"
 }
