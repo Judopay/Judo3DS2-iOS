@@ -82,57 +82,57 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jo2xKsw3P9m/DW6RwJxWucTUCJ4=
+		9fTeVBrbH/ZjaVCyygaxlI1KD1s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		UvFfHHnqX0D8rJno1LPhqKE7xfI=
 		</data>
-		<key>certificates.bundle/DSConfiguration.plist</key>
+		<key>judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<data>
 		CapBCBqXKMpEyFIlpPK7EGhKWqc=
 		</data>
-		<key>certificates.bundle/ds-amex.der</key>
+		<key>judo-3ds2-certificates.bundle/ds-amex.der</key>
 		<data>
 		3s2qifExLGdjFyLvb62McxoLCXs=
 		</data>
-		<key>certificates.bundle/ds-mastercard.der</key>
+		<key>judo-3ds2-certificates.bundle/ds-mastercard.der</key>
 		<data>
 		kaJugDb4JuM+xy2ttFcIKu5yEF0=
 		</data>
-		<key>certificates.bundle/ds-visa.der</key>
+		<key>judo-3ds2-certificates.bundle/ds-visa.der</key>
 		<data>
 		CUyoRaOV8SHe0sDeJWJxSsbC0pY=
 		</data>
-		<key>certificates.bundle/ec_cert.der</key>
+		<key>judo-3ds2-certificates.bundle/ec_cert.der</key>
 		<data>
 		0oBqUkX9RHG7RWWnkHWLZcpvaVk=
 		</data>
-		<key>certificates.bundle/rsa_cert.der</key>
+		<key>judo-3ds2-certificates.bundle/rsa_cert.der</key>
 		<data>
 		6VlaLcIzpWR9HBwNJm4Wg2rKVnM=
 		</data>
-		<key>icons.bundle/challenge_indicator.png</key>
+		<key>judo-3ds2-icons.bundle/challenge_indicator.png</key>
 		<data>
 		8fRn/z2QhwPdAn80x5/QRLaWkEE=
 		</data>
-		<key>icons.bundle/minus.png</key>
+		<key>judo-3ds2-icons.bundle/minus.png</key>
 		<data>
 		ZIq32hGapCYacfCAufOnOI+yKVs=
 		</data>
-		<key>icons.bundle/plus.png</key>
+		<key>judo-3ds2-icons.bundle/plus.png</key>
 		<data>
 		tjkHbwp/O1uqvPneq17eGHzOSV0=
 		</data>
-		<key>icons.bundle/selected-multi.png</key>
+		<key>judo-3ds2-icons.bundle/selected-multi.png</key>
 		<data>
 		51HlhA51azQDzJaQO9UbMCKAYfY=
 		</data>
-		<key>icons.bundle/selected-single.png</key>
+		<key>judo-3ds2-icons.bundle/selected-single.png</key>
 		<data>
 		+Ze2q/S0sUW6/koMkJ5xY+mwcEY=
 		</data>
-		<key>icons.bundle/unselected.png</key>
+		<key>judo-3ds2-icons.bundle/unselected.png</key>
 		<data>
 		l+on2fUe+QS01bzFUtz78BKRM80=
 		</data>
@@ -279,84 +279,84 @@
 			N9hD+lfnxnQx0Of12KaQfCmYpnE6LOvTvMeri1WVVkQ=
 			</data>
 		</dict>
-		<key>certificates.bundle/DSConfiguration.plist</key>
+		<key>judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			tuq98NogV9VTaCBE/N/OUa542Wi8dMABrhyywJhH5yQ=
 			</data>
 		</dict>
-		<key>certificates.bundle/ds-amex.der</key>
+		<key>judo-3ds2-certificates.bundle/ds-amex.der</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			2MzUEMSPRv/EPSekgMOw5oCQL+iagz1oIx37B0nr9zQ=
 			</data>
 		</dict>
-		<key>certificates.bundle/ds-mastercard.der</key>
+		<key>judo-3ds2-certificates.bundle/ds-mastercard.der</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			9qstQk0WWQewjhrwLeb0ob5R0pJpjkhKQMPRrnCn32s=
 			</data>
 		</dict>
-		<key>certificates.bundle/ds-visa.der</key>
+		<key>judo-3ds2-certificates.bundle/ds-visa.der</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			zPqjEa25PXeZ8KAk/ss/Vhuby/uKxaFzP+KDIogxhYs=
 			</data>
 		</dict>
-		<key>certificates.bundle/ec_cert.der</key>
+		<key>judo-3ds2-certificates.bundle/ec_cert.der</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			uPLD7E250plzeWK9E81pwmYBDoVJCSu56CF+jo7WLLk=
 			</data>
 		</dict>
-		<key>certificates.bundle/rsa_cert.der</key>
+		<key>judo-3ds2-certificates.bundle/rsa_cert.der</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			c3HsbRLObiFEtu8kRZljcdzU6gkVUetILPuCui/EfJ4=
 			</data>
 		</dict>
-		<key>icons.bundle/challenge_indicator.png</key>
+		<key>judo-3ds2-icons.bundle/challenge_indicator.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			K2+dZnmunZIXY9EXEDYfd9ez65J/NGDKPBnz+og4SsU=
 			</data>
 		</dict>
-		<key>icons.bundle/minus.png</key>
+		<key>judo-3ds2-icons.bundle/minus.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			9lrTcrYrPgVhKIym295uXiVxQuZdshM9wCzxy4Voggw=
 			</data>
 		</dict>
-		<key>icons.bundle/plus.png</key>
+		<key>judo-3ds2-icons.bundle/plus.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			l4F8guqgSNR0DGLChW1/bqAchJAofHu0RRdarrBmxiU=
 			</data>
 		</dict>
-		<key>icons.bundle/selected-multi.png</key>
+		<key>judo-3ds2-icons.bundle/selected-multi.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			45EmZkTwSXj+uPdm8lsFdwTb1L64gh1gsATsvDoSrRo=
 			</data>
 		</dict>
-		<key>icons.bundle/selected-single.png</key>
+		<key>judo-3ds2-icons.bundle/selected-single.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			HMATDw+7hg1o5BXiZyF9LY9uZvmP3jMq107moth6EHg=
 			</data>
 		</dict>
-		<key>icons.bundle/unselected.png</key>
+		<key>judo-3ds2-icons.bundle/unselected.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
