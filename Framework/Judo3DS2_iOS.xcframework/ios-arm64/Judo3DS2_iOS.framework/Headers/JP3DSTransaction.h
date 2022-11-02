@@ -23,7 +23,7 @@
 #import <Foundation/Foundation.h>
 
 @protocol JP3DSChallengeStatusReceiver;
-@class JP3DSAuthenticationRequestParameters, JP3DSChallengeParameters;
+@class JP3DSAuthenticationRequestParameters, JP3DSChallengeParameters, JP3DSUICustomization;
 
 @interface JP3DSTransaction : NSObject
 
@@ -41,7 +41,8 @@
 - (nonnull instancetype)initWithDirectoryServerID:(nonnull NSString *)directoryServerID
                                    messageVersion:(nullable NSString *)messageVersion
                                        deviceData:(nonnull NSString *)deviceData
-                                         sdkAppID:(nonnull NSString *)sdkAppID;
+                                         sdkAppID:(nonnull NSString *)sdkAppID
+                                  uiCustomization:(nullable JP3DSUICustomization *)uiCustomization;
 
 /**
  * Returns an instance of JP3DSAuthenticationRequestParameters containing all the required parameters
