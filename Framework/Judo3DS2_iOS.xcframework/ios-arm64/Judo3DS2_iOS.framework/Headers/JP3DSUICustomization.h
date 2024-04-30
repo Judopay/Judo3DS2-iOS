@@ -20,8 +20,8 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 //  SOFTWARE.
 
-#import "JP3DSButtonType.h"
 #import <Foundation/Foundation.h>
+#import <Judo3DS2_iOS/JP3DSButtonType.h>
 
 @class JP3DSButtonCustomization, JP3DSToolbarCustomization, JP3DSLabelCustomization, JP3DSTextBoxCustomization;
 

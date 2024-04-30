@@ -20,8 +20,8 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 //  SOFTWARE.
 
-#import "JP3DSCustomization.h"
 #import <Foundation/Foundation.h>
+#import <Judo3DS2_iOS/JP3DSCustomization.h>
 
 @interface JP3DSTextBoxCustomization : JP3DSCustomization <NSCopying>
 

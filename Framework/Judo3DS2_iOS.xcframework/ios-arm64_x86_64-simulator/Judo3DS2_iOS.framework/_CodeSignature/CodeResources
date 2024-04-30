@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/JP3DSButtonCustomization.h</key>
 		<data>
-		JKHJkyqCL2jXOfNHpSxyToyJd4Q=
+		hOdDyeOyLzk4PqBRkz0v4wQCFhk=
 		</data>
 		<key>Headers/JP3DSButtonType.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/JP3DSLabelCustomization.h</key>
 		<data>
-		9TWlbM6B7sxeZ/T15oYJXrlv4OY=
+		4drAkS6uUZgL4TK05oIi+6QrDTU=
 		</data>
 		<key>Headers/JP3DSProtocolErrorEvent.h</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Headers/JP3DSTextBoxCustomization.h</key>
 		<data>
-		69cxUOEnfq7Ily7Tq/mqXncuWWE=
+		DHFowxMwuzS1lmbHkwBnZG4+uB4=
 		</data>
 		<key>Headers/JP3DSToolbarCustomization.h</key>
 		<data>
-		FRslgym2QsuFWvSs52r5eKFEcBQ=
+		7ZzvCW71jTI3ZoI9ReJqn3sUPeU=
 		</data>
 		<key>Headers/JP3DSTransaction.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Headers/JP3DSUICustomization.h</key>
 		<data>
-		j/8F10D7Wb4rjybz9C1vXGlGXmE=
+		VqTpJTDu/AMpcxAPp+DUG8hPyzE=
 		</data>
 		<key>Headers/JP3DSWarning.h</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Q7Mj5O51qGIH+z1hTe+tyOIkRlQ=
+		mE9npwABsBphII3kc13KaJi3yr4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		UvFfHHnqX0D8rJno1LPhqKE7xfI=
+		6bIfiAvEzhK9kPz363Unp7/uk3A=
 		</data>
 		<key>judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<data>
@@ -157,7 +157,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dnZ6FftVbfSboqADfUrj2QX6erNp+xfIK6U15s1aZh4=
+			zJVj/eLeBZHV8LSF+lb/uXaE0zgqsOGEnzwbX9ZxwPI=
 			</data>
 		</dict>
 		<key>Headers/JP3DSButtonType.h</key>
@@ -213,7 +213,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eEbESXCiXtCXJ0SXmyKOjA60om/HIbVxKipIeuRT86U=
+			RkU3VcL79iHXW+8G7HPPcSdPlP7/Qq4ha9clQlkaTRM=
 			</data>
 		</dict>
 		<key>Headers/JP3DSProtocolErrorEvent.h</key>
@@ -234,14 +234,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TEpj17eJKn7ysBOMvxjm+KNxwcc0xsntPGYKybobaVM=
+			5PYTy+/0qIYtIEc37DyI+1wvfDq1MyUELiWG/Cc1HVk=
 			</data>
 		</dict>
 		<key>Headers/JP3DSToolbarCustomization.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qd/yZ+Talr4z7uCmTJXWw8RgCdoKRuPEHehsE8Y1gvg=
+			SR2FtS2t3iklxvHGkc0aFN8akyWW48KYiYbqteTK1kM=
 			</data>
 		</dict>
 		<key>Headers/JP3DSTransaction.h</key>
@@ -255,7 +255,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LTMVzvtGhZG0TGShyqIBcKhS1G5mTf6f6eUfK3WfRkQ=
+			ue0grFrIhi64gVSBrZYR0e4mWr+CQqCAde3Jw90k2AE=
 			</data>
 		</dict>
 		<key>Headers/JP3DSWarning.h</key>
@@ -276,7 +276,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N9hD+lfnxnQx0Of12KaQfCmYpnE6LOvTvMeri1WVVkQ=
+			83DC4vJAZUYWFYoBP9wF8cr3BQVen7MJwW74jNZqcyA=
 			</data>
 		</dict>
 		<key>judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
