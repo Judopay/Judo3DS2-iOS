@@ -82,15 +82,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mE9npwABsBphII3kc13KaJi3yr4=
+		iRTHrDWnkbSxE7BUJkcscek9kKM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		6bIfiAvEzhK9kPz363Unp7/uk3A=
 		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		YyECBCTToOSP55UItlFKGS/DBAw=
+		</data>
 		<key>judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<data>
-		CapBCBqXKMpEyFIlpPK7EGhKWqc=
+		kfOLUhABhTifj0sbjGFHbpNBYHo=
 		</data>
 		<key>judo-3ds2-certificates.bundle/ds-amex.der</key>
 		<data>
@@ -98,11 +102,11 @@
 		</data>
 		<key>judo-3ds2-certificates.bundle/ds-mastercard.der</key>
 		<data>
-		kaJugDb4JuM+xy2ttFcIKu5yEF0=
+		Tu5Lv2MzyoUGTWfMZ/6WTuUvbtI=
 		</data>
 		<key>judo-3ds2-certificates.bundle/ds-visa.der</key>
 		<data>
-		CUyoRaOV8SHe0sDeJWJxSsbC0pY=
+		r9ZFRUHm9Mcj8EVJfiIWkyJSDno=
 		</data>
 		<key>judo-3ds2-certificates.bundle/ec_cert.der</key>
 		<data>
@@ -279,11 +283,18 @@
 			83DC4vJAZUYWFYoBP9wF8cr3BQVen7MJwW74jNZqcyA=
 			</data>
 		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1mDT8q3ZZIlvLFYBT8l+Rp6QdLWvP1lfeX3NDzVfBck=
+			</data>
+		</dict>
 		<key>judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tuq98NogV9VTaCBE/N/OUa542Wi8dMABrhyywJhH5yQ=
+			6fvPC8pih7vJ6awib9ILBJkzXqUsALGJhnbKv+/1fDs=
 			</data>
 		</dict>
 		<key>judo-3ds2-certificates.bundle/ds-amex.der</key>
@@ -297,14 +308,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9qstQk0WWQewjhrwLeb0ob5R0pJpjkhKQMPRrnCn32s=
+			IXLcxDCl7MP3hELEJmOZ6FXlYue2oUkE0bZx7a9vbi8=
 			</data>
 		</dict>
 		<key>judo-3ds2-certificates.bundle/ds-visa.der</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zPqjEa25PXeZ8KAk/ss/Vhuby/uKxaFzP+KDIogxhYs=
+			DJnw+zB53PqSRmjSukgryObhzG4l+tTjQgVDpOJy8t4=
 			</data>
 		</dict>
 		<key>judo-3ds2-certificates.bundle/ec_cert.der</key>

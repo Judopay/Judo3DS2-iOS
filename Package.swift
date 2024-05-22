@@ -6,23 +6,15 @@ import PackageDescription
 let package = Package(
     name: "Judo3DS2_iOS",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v12)
     ],
     products: [
         .library(
             name: "Judo3DS2_iOS",
-            targets: ["Judo3DS2_iOSTarget"])
-    ],
-    dependencies: [
+            targets: ["Judo3DS2_iOS"])
     ],
     targets: [
-        .target(
-            name: "Judo3DS2_iOSTarget",
-            dependencies: [
-                .target(name: "Judo3DS2_iOS")
-            ],
-            path: "Sources"),
         .binaryTarget(
             name: "Judo3DS2_iOS",
-            path: "Framework/Judo3DS2_iOS.xcframework")
+            path: "Judo3DS2_iOS.xcframework")
     ])

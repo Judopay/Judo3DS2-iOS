@@ -4,6 +4,8 @@
 <dict>
 	<key>visa</key>
 	<dict>
+		<key>kid</key>
+		<string>747da056-476c-4296-a7c4-7e853e235ef0</string>
 		<key>certificate</key>
 		<string>ds-visa.der</string>
 		<key>ids</key>
@@ -13,6 +15,8 @@
 	</dict>
 	<key>mastercard</key>
 	<dict>
+		<key>kid</key>
+		<string>116f90eee124062e2ca9c8efeb54802c34d963a0</string>
 		<key>certificate</key>
 		<string>ds-mastercard.der</string>
 		<key>ids</key>
