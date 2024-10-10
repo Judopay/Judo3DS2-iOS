@@ -94,11 +94,15 @@
 		</data>
 		<key>judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<data>
-		kfOLUhABhTifj0sbjGFHbpNBYHo=
+		3FKWo4d/r6dc/unLyPRXWwkmv3I=
 		</data>
 		<key>judo-3ds2-certificates.bundle/ds-amex.der</key>
 		<data>
 		HXXAhS1+ga1spa/ib4PWBAfCbAc=
+		</data>
+		<key>judo-3ds2-certificates.bundle/ds-fabrick-test-rsa.der</key>
+		<data>
+		4TNtMkKFjzhOYN8tj0wgE6V4ZV4=
 		</data>
 		<key>judo-3ds2-certificates.bundle/ds-mastercard.der</key>
 		<data>
@@ -294,7 +298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6fvPC8pih7vJ6awib9ILBJkzXqUsALGJhnbKv+/1fDs=
+			AQ7GhuwNA2ybPM9ZPVPvXD59fIrGRFcQozAvqT9Fgys=
 			</data>
 		</dict>
 		<key>judo-3ds2-certificates.bundle/ds-amex.der</key>
@@ -302,6 +306,13 @@
 			<key>hash2</key>
 			<data>
 			ewLPPHoI7xsVIQo3qdhCzIsrjaorkkTvEtNvDOvNYJA=
+			</data>
+		</dict>
+		<key>judo-3ds2-certificates.bundle/ds-fabrick-test-rsa.der</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6AGQrwc08o/1esRnwPr+egyh40oyOf5v193oBsjjKJs=
 			</data>
 		</dict>
 		<key>judo-3ds2-certificates.bundle/ds-mastercard.der</key>

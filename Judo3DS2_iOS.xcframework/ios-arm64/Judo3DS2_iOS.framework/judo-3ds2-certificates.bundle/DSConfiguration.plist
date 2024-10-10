@@ -53,5 +53,14 @@
 			<string>F000000000</string>
 		</array>
 	</dict>
+	<key>fabrick_test_rsa_scheme</key>
+	<dict>
+		<key>certificate</key>
+		<string>ds-fabrick-test-rsa.der</string>
+		<key>ids</key>
+		<array>
+			<string>F121535344</string>
+		</array>
+	</dict>
 </dict>
 </plist>
