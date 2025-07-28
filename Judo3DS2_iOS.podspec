@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'Judo3DS2_iOS'
-  s.version               = '1.2.4'
+  s.version               = '1.2.5'
   s.summary               = 'Judopay 3DS Secure 2.0 client for iOS.'
   s.homepage              = 'https://judopay.com/'
   s.license               = 'MIT'
