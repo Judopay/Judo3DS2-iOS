@@ -94,11 +94,11 @@
 		</data>
 		<key>judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<data>
-		3FKWo4d/r6dc/unLyPRXWwkmv3I=
+		d3z7QIkhADLYHkhEQiEXXHmsxaE=
 		</data>
 		<key>judo-3ds2-certificates.bundle/ds-amex.der</key>
 		<data>
-		HXXAhS1+ga1spa/ib4PWBAfCbAc=
+		MWi1PR3x3T1/jz/uklrGuFgLzJ4=
 		</data>
 		<key>judo-3ds2-certificates.bundle/ds-fabrick-test-rsa.der</key>
 		<data>
@@ -298,14 +298,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AQ7GhuwNA2ybPM9ZPVPvXD59fIrGRFcQozAvqT9Fgys=
+			DfJ7gtZ/oxpf46zT3jZlJCkkKhBYV9zqQA+ZdmdcjbU=
 			</data>
 		</dict>
 		<key>judo-3ds2-certificates.bundle/ds-amex.der</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ewLPPHoI7xsVIQo3qdhCzIsrjaorkkTvEtNvDOvNYJA=
+			GA0axGP4rBleCO2MVdmakgaBNWEJthQNod/p9ToXRdk=
 			</data>
 		</dict>
 		<key>judo-3ds2-certificates.bundle/ds-fabrick-test-rsa.der</key>

@@ -26,6 +26,8 @@
 	</dict>
 	<key>amex</key>
 	<dict>
+		<key>kid</key>
+		<string>65e56482-h634-2512-6cg3-kn75c9b6e79h</string>
 		<key>certificate</key>
 		<string>ds-amex.der</string>
 		<key>ids</key>
