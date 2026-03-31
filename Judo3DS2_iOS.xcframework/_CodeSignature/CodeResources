@@ -82,11 +82,11 @@
 		</data>
 		<key>ios-arm64/Judo3DS2_iOS.framework/Info.plist</key>
 		<data>
-		kT2/bg3LyLCOO7wl5JDvfu1bK3s=
+		U9BcBBdt/jUcufaFviZnq8tIp0o=
 		</data>
 		<key>ios-arm64/Judo3DS2_iOS.framework/Judo3DS2_iOS</key>
 		<data>
-		UBNFa/S4LsN8EAvrI3cJnNOAAG8=
+		FiTGX4GzZxRARC6RKSmwJMGMkHs=
 		</data>
 		<key>ios-arm64/Judo3DS2_iOS.framework/Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>ios-arm64/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<data>
-		d3z7QIkhADLYHkhEQiEXXHmsxaE=
+		dhwKZ08tG0WggEA16Qhbj1ZIYcE=
 		</data>
 		<key>ios-arm64/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/ds-amex.der</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>ios-arm64/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/ds-mastercard.der</key>
 		<data>
-		Tu5Lv2MzyoUGTWfMZ/6WTuUvbtI=
+		YOCb9cTpDshO9Q1i37tYVBLvtJw=
 		</data>
 		<key>ios-arm64/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/ds-visa.der</key>
 		<data>
@@ -226,11 +226,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/Info.plist</key>
 		<data>
-		vcn0JEvNBJY1xl1LyqGd9dUdHgQ=
+		p+XQQAQUV8iUOrVTCe6I4NB6CcM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/Judo3DS2_iOS</key>
 		<data>
-		YgH+cMQfhEFJUdSPTY/bjgbz67Q=
+		wo6y1r9WhME7MUgVeJXwdHR4jnU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/Modules/module.modulemap</key>
 		<data>
@@ -242,11 +242,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/_CodeSignature/CodeResources</key>
 		<data>
-		4mn2atK8nTX+U7D9/4ie3n23FlA=
+		eemPkHsl6aWEebEb5D8JknzRxVI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<data>
-		d3z7QIkhADLYHkhEQiEXXHmsxaE=
+		dhwKZ08tG0WggEA16Qhbj1ZIYcE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/ds-amex.der</key>
 		<data>
@@ -258,7 +258,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/ds-mastercard.der</key>
 		<data>
-		Tu5Lv2MzyoUGTWfMZ/6WTuUvbtI=
+		YOCb9cTpDshO9Q1i37tYVBLvtJw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/ds-visa.der</key>
 		<data>
@@ -512,22 +512,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kT2/bg3LyLCOO7wl5JDvfu1bK3s=
+			U9BcBBdt/jUcufaFviZnq8tIp0o=
 			</data>
 			<key>hash2</key>
 			<data>
-			zyepLKpPNh8Yl2Pw5RVkG6z9iO82q5SuAKwZQByIiHo=
+			1Zn2Q2YYc7bvZWavTHDoBzs02vwZ+QIaGrwbOVLI5Hs=
 			</data>
 		</dict>
 		<key>ios-arm64/Judo3DS2_iOS.framework/Judo3DS2_iOS</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UBNFa/S4LsN8EAvrI3cJnNOAAG8=
+			FiTGX4GzZxRARC6RKSmwJMGMkHs=
 			</data>
 			<key>hash2</key>
 			<data>
-			mPCXRjHFr1V/gqLHfuDOKZLW2MXrKmR0VKYiOtnwdeI=
+			cN90fVSojqEbIbycKESPdxP5lxfu91CzYRP1009B+Hg=
 			</data>
 		</dict>
 		<key>ios-arm64/Judo3DS2_iOS.framework/Modules/module.modulemap</key>
@@ -556,11 +556,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d3z7QIkhADLYHkhEQiEXXHmsxaE=
+			dhwKZ08tG0WggEA16Qhbj1ZIYcE=
 			</data>
 			<key>hash2</key>
 			<data>
-			DfJ7gtZ/oxpf46zT3jZlJCkkKhBYV9zqQA+ZdmdcjbU=
+			Mgp3VanqIAKPBuKdeZm4iQiY4TolVuhFiSPq1Ax/DJQ=
 			</data>
 		</dict>
 		<key>ios-arm64/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/ds-amex.der</key>
@@ -589,11 +589,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Tu5Lv2MzyoUGTWfMZ/6WTuUvbtI=
+			YOCb9cTpDshO9Q1i37tYVBLvtJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			IXLcxDCl7MP3hELEJmOZ6FXlYue2oUkE0bZx7a9vbi8=
+			SrlXczlQkdUna1cFVJwzVvDVPesijayWM8aBCma0RAQ=
 			</data>
 		</dict>
 		<key>ios-arm64/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/ds-visa.der</key>
@@ -908,22 +908,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vcn0JEvNBJY1xl1LyqGd9dUdHgQ=
+			p+XQQAQUV8iUOrVTCe6I4NB6CcM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vzBRoOG9bRoxQ27xgn8q1aV1CeLdSjk3rJEsgzxXUfM=
+			LBAk+xHgZi0daRtoTvng0rdek2fcRdYk846J/Z/e2yU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/Judo3DS2_iOS</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YgH+cMQfhEFJUdSPTY/bjgbz67Q=
+			wo6y1r9WhME7MUgVeJXwdHR4jnU=
 			</data>
 			<key>hash2</key>
 			<data>
-			dECPf+J50VdFbN11Qnz6Rc893dMySMnT4+6eadunuHU=
+			k9D2MiFemFpE36fM+I71zBNjMx23GaWnP3mluM9T8XM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/Modules/module.modulemap</key>
@@ -952,22 +952,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4mn2atK8nTX+U7D9/4ie3n23FlA=
+			eemPkHsl6aWEebEb5D8JknzRxVI=
 			</data>
 			<key>hash2</key>
 			<data>
-			gmyXYWUWedlAe7v5blYiBCF79g1y13FQ18tt/vMUg70=
+			10bsmvngn9QgetuuVuCFuxAKOEGhvJXpGqRw5njlhQs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d3z7QIkhADLYHkhEQiEXXHmsxaE=
+			dhwKZ08tG0WggEA16Qhbj1ZIYcE=
 			</data>
 			<key>hash2</key>
 			<data>
-			DfJ7gtZ/oxpf46zT3jZlJCkkKhBYV9zqQA+ZdmdcjbU=
+			Mgp3VanqIAKPBuKdeZm4iQiY4TolVuhFiSPq1Ax/DJQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/ds-amex.der</key>
@@ -996,11 +996,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Tu5Lv2MzyoUGTWfMZ/6WTuUvbtI=
+			YOCb9cTpDshO9Q1i37tYVBLvtJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			IXLcxDCl7MP3hELEJmOZ6FXlYue2oUkE0bZx7a9vbi8=
+			SrlXczlQkdUna1cFVJwzVvDVPesijayWM8aBCma0RAQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Judo3DS2_iOS.framework/judo-3ds2-certificates.bundle/ds-visa.der</key>

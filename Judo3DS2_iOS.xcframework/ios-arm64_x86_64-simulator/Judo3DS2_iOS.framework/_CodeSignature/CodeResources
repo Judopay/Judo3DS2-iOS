@@ -82,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vcn0JEvNBJY1xl1LyqGd9dUdHgQ=
+		p+XQQAQUV8iUOrVTCe6I4NB6CcM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>judo-3ds2-certificates.bundle/DSConfiguration.plist</key>
 		<data>
-		d3z7QIkhADLYHkhEQiEXXHmsxaE=
+		dhwKZ08tG0WggEA16Qhbj1ZIYcE=
 		</data>
 		<key>judo-3ds2-certificates.bundle/ds-amex.der</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>judo-3ds2-certificates.bundle/ds-mastercard.der</key>
 		<data>
-		Tu5Lv2MzyoUGTWfMZ/6WTuUvbtI=
+		YOCb9cTpDshO9Q1i37tYVBLvtJw=
 		</data>
 		<key>judo-3ds2-certificates.bundle/ds-visa.der</key>
 		<data>
@@ -298,7 +298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DfJ7gtZ/oxpf46zT3jZlJCkkKhBYV9zqQA+ZdmdcjbU=
+			Mgp3VanqIAKPBuKdeZm4iQiY4TolVuhFiSPq1Ax/DJQ=
 			</data>
 		</dict>
 		<key>judo-3ds2-certificates.bundle/ds-amex.der</key>
@@ -319,7 +319,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IXLcxDCl7MP3hELEJmOZ6FXlYue2oUkE0bZx7a9vbi8=
+			SrlXczlQkdUna1cFVJwzVvDVPesijayWM8aBCma0RAQ=
 			</data>
 		</dict>
 		<key>judo-3ds2-certificates.bundle/ds-visa.der</key>

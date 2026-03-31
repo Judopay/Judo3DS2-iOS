@@ -16,7 +16,7 @@
 	<key>mastercard</key>
 	<dict>
 		<key>kid</key>
-		<string>116f90eee124062e2ca9c8efeb54802c34d963a0</string>
+		<string>0a15f97c9e4d5c1e02d234f65a05c44a38e8bc49</string>
 		<key>certificate</key>
 		<string>ds-mastercard.der</string>
 		<key>ids</key>
