@@ -23,26 +23,48 @@
 #import <Foundation/Foundation.h>
 
 @protocol JP3DSChallengeStatusReceiver;
-@class JP3DSAuthenticationRequestParameters, JP3DSChallengeParameters, JP3DSUICustomization;
+@class JP3DSAuthenticationRequestParameters, JP3DSChallengeParameters, JP3DSCertificateMaterial, JP3DSUICustomization;
 
 @interface JP3DSTransaction : NSObject
 
 /**
- * Designated initializer that creates a JP3DSTransaction instance
+ * Initializer that creates a JP3DSTransaction instance using the SDK's built-in bundle certificate.
  *
  * @param directoryServerID - the Registered Application Provider Identifier (RID) of a payment system.
  * This 5-byte value, defined by the ISO 7816-5 standard, is used to identify the public key needed for device information encryption.
  * @param messageVersion - the protocol version according to which the transaction shall be created.
- * @param deviceData - the device data NString representation collected during initialization.
+ * @param deviceData - the device data NSDictionary representation collected during initialization.
  * @param sdkAppID - the unique UUID used to identify the application the 3DS SDK is used in.
  *
  * @returns an instance of [JP3DSTransaction].
  */
 - (nonnull instancetype)initWithDirectoryServerID:(nonnull NSString *)directoryServerID
                                    messageVersion:(nullable NSString *)messageVersion
-                                       deviceData:(nonnull NSString *)deviceData
+                                       deviceData:(nonnull NSDictionary *)deviceData
                                          sdkAppID:(nonnull NSString *)sdkAppID
                                   uiCustomization:(nullable JP3DSUICustomization *)uiCustomization;
+
+/**
+ * Designated initializer that creates a JP3DSTransaction instance, optionally using injected
+ * certificate material instead of the SDK's built-in bundle certificate.
+ *
+ * @param directoryServerID - the Registered Application Provider Identifier (RID) of a payment system.
+ * @param messageVersion - the protocol version according to which the transaction shall be created.
+ * @param deviceData - the device data NSString representation collected during initialization.
+ * @param sdkAppID - the unique UUID used to identify the application the 3DS SDK is used in.
+ * @param uiCustomization - optional UI customization.
+ * @param certificateMaterial - optional override certificate material. When non-nil and valid, the
+ * injected certificate and keyID are used for AReq encryption instead of the bundle certificate.
+ * If nil or if the PEM fails to parse, the SDK falls back to its built-in bundled certificate.
+ *
+ * @returns an instance of [JP3DSTransaction].
+ */
+- (nonnull instancetype)initWithDirectoryServerID:(nonnull NSString *)directoryServerID
+                                   messageVersion:(nullable NSString *)messageVersion
+                                       deviceData:(nonnull NSDictionary *)deviceData
+                                         sdkAppID:(nonnull NSString *)sdkAppID
+                                  uiCustomization:(nullable JP3DSUICustomization *)uiCustomization
+                              certificateMaterial:(nullable JP3DSCertificateMaterial *)certificateMaterial;
 
 /**
  * Returns an instance of JP3DSAuthenticationRequestParameters containing all the required parameters

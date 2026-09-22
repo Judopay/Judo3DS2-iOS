@@ -23,8 +23,20 @@
 #import <Foundation/Foundation.h>
 
 @class JP3DSConfigParameters, JP3DSTransaction, JP3DSUICustomization, JP3DSWarning;
+@protocol JP3DSDirectoryServerCertificateProvider;
 
 @interface JP3DS2Service : NSObject
+
+/**
+ * An optional provider consulted at transaction-creation time to supply override DS
+ * certificate material. When non-nil, the SDK calls certificateForDirectoryServerID:
+ * and uses the returned JP3DSCertificateMaterial for AReq encryption instead of the
+ * built-in bundle certificate. Returning nil from the provider falls back to built-in certs.
+ *
+ * Assign this before calling createTransactionWithDirectoryServerID:messageVersion:.
+ * The property is weak to avoid retain cycles when the host object also holds the service.
+ */
+@property (nonatomic, weak, nullable) id<JP3DSDirectoryServerCertificateProvider> certificateProvider;
 
 /**
  * Initializes the 3DS SDK.

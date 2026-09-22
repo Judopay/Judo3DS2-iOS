@@ -34,13 +34,16 @@ FOUNDATION_EXPORT const unsigned char Judo3DSVersionString[];
 #import <Judo3DS2_iOS/JP3DSAuthenticationRequestParameters.h>
 #import <Judo3DS2_iOS/JP3DSButtonCustomization.h>
 #import <Judo3DS2_iOS/JP3DSButtonType.h>
+#import <Judo3DS2_iOS/JP3DSCertificateMaterial.h>
 #import <Judo3DS2_iOS/JP3DSChallengeParameters.h>
 #import <Judo3DS2_iOS/JP3DSChallengeStatusReceiver.h>
 #import <Judo3DS2_iOS/JP3DSCompletionEvent.h>
 #import <Judo3DS2_iOS/JP3DSConfigParameters.h>
 #import <Judo3DS2_iOS/JP3DSCustomization.h>
+#import <Judo3DS2_iOS/JP3DSDirectoryServerCertificateProvider.h>
 #import <Judo3DS2_iOS/JP3DSErrorMessage.h>
 #import <Judo3DS2_iOS/JP3DSLabelCustomization.h>
+#import <Judo3DS2_iOS/JP3DSProgressIndicatorController.h>
 #import <Judo3DS2_iOS/JP3DSProtocolErrorEvent.h>
 #import <Judo3DS2_iOS/JP3DSRuntimeErrorEvent.h>
 #import <Judo3DS2_iOS/JP3DSTextBoxCustomization.h>
